@@ -25,10 +25,10 @@
 | Rol | Responsable | Especialidad |
 |-----|-------------|--------------|
 | 🎯 **Product Owner** | Luis Gerardo Catalas | Visión del producto |
-| 🤝 **Scrum Master** | [Nombre 2] | Metodología Scrum |
+| 🤝 **Scrum Master** | Kevin Cristoferd Lorea Tannfeld | Metodología Scrum |
 | 🎨 **Developer** | [Emilce Agustina Torres] | Diseño / WordPress |
 | 📝 **Developer** | Luis Gastón Alonso | Contenido / Documentación |
-| ⚡ **Developer** | [Nombre 5] | Frontend / Funcionalidades |
+| ⚡ **Developer** | Martin Abel Vijarra | Frontend / Funcionalidades |
 
 ---
 
