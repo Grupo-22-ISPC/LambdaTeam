@@ -26,7 +26,7 @@
 |-----|-------------|--------------|
 | 🎯 **Product Owner** | [Nombre 1] | Visión del producto |
 | 🤝 **Scrum Master** | [Nombre 2] | Metodología Scrum |
-| 🎨 **Developer** | [Nombre 3] | Diseño / WordPress |
+| 🎨 **Developer** | [Emilce Agustina Torres] | Diseño / WordPress |
 | 📝 **Developer** | Luis Gastón Alonso | Contenido / Documentación |
 | ⚡ **Developer** | [Nombre 5] | Frontend / Funcionalidades |
 
