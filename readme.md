@@ -1,4 +1,4 @@
-# Lambda 🚀
+# Lambda Team 🚀
 ### Desarrollo Web Profesional
 
 ![Lambda Logo](https://img.shields.io/badge/Lambda-Dev%20Team-blue?style=for-the-badge&logo=lambda)
@@ -24,7 +24,7 @@
 
 | Rol | Responsable | Especialidad |
 |-----|-------------|--------------|
-| 🎯 **Product Owner** | [Nombre 1] | Visión del producto |
+| 🎯 **Product Owner** | Luis Gerardo Catalas | Visión del producto |
 | 🤝 **Scrum Master** | [Nombre 2] | Metodología Scrum |
 | 🎨 **Developer** | [Emilce Agustina Torres] | Diseño / WordPress |
 | 📝 **Developer** | Luis Gastón Alonso | Contenido / Documentación |
