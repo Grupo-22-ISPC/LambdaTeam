@@ -5,7 +5,22 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow?style=for-the-badge)
 
+📌 Este README documenta la estructura, instalación y evolución del proyecto Lambda, desarrollado en WordPress bajo metodología Scrum como parte de la Tecnicatura en Desarrollo Web.
+
 ---
+
+## 📦 Estado del Proyecto
+
+✅ Sprint 0: Completado  
+✅ Sprint 1: Completado  
+✅ Sprint 2: Completado   
+
+🔗 Sitio Web Demo: [https://lambda.infinityfreeapp.com](https://lambda.infinityfreeapp.com/)  
+📚 Wiki del Proyecto: [Ver documentación técnica y funcional](https://github.com/Grupo-22-ISPC/Lambda/wiki)  
+
+
+---
+
 
 ## 📋 Descripción del Proyecto
 
@@ -26,7 +41,7 @@
 |-----|-------------|--------------|
 | 🎯 **Product Owner** | Luis Gerardo Catalas | Visión del producto |
 | 🤝 **Scrum Master** | Kevin Cristoferd Lorea Tannfeld | Metodología Scrum |
-| 🎨 **Developer** | [Emilce Agustina Torres] | Diseño / WordPress |
+| 🎨 **Developer** | Emilce Agustina Torres | Diseño / WordPress |
 | 📝 **Developer** | Luis Gastón Alonso | Contenido / Documentación |
 | ⚡ **Developer** | Martin Abel Vijarra | Frontend / Funcionalidades |
 
@@ -34,15 +49,31 @@
 
 ## 🛠️ Stack Tecnológico
 
-### Core
-- **CMS:** WordPress 6.x
-- **Servidor Local:** XAMPP
-- **Base de Datos:** MySQL
-- **Lenguajes:** PHP, HTML5, CSS3, JavaScript
+**Core**  
+- CMS: WordPress 6.x  
+- Servidor Local: XAMPP  
+- Base de Datos: MySQL  
+- Lenguajes: PHP, HTML5, CSS3, JavaScript  
 
-### Herramientas de Desarrollo
-- **Control de Versiones:** Git + GitHub
-- **Metodología:** Scrum
+**Frontend**  
+- HTML5, CSS3, JavaScript  
+
+**Plugins Clave**  
+- Elementor – Maquetador visual principal  
+- Contact Form 7 – Formularios de contacto  
+- WPForms Lite – Formularios adicionales  
+- Flamingo – Registro de mensajes enviados  
+- LatePoint – Sistema de reservas (si está activo)  
+- All-in-One WP Migration – Backup y migración del sitio  
+- Ultimate Addons for Elementor Lite – Extensiones visuales  
+- King Addons – Complementos para Elementor  
+- Plantillas de inicio – Base de diseño inicial
+
+
+**Herramientas de Desarrollo**  
+- Control de Versiones: Git + GitHub  
+- Metodología: Scrum
+
 
 ---
 
@@ -137,112 +168,47 @@ lambda/
 
 ### Sprints Planificados
 
-#### 🚀 Sprint 0: Puesta en Marcha *(Completado)*
-- [x] Instalación de entorno XAMPP
-- [x] Configuración de repositorio
-- [x] Documentación inicial
-- [x] Setup del equipo Scrum
+- 🚀 Sprint 0: Puesta en Marcha 
+- 🎨 Sprint 1: Estructura y Diseño 
+- 📝 Sprint 2: Contenido y Funcionalidades
 
-#### 🎨 Sprint 1: Estructura y Diseño *(En Progreso)*
-- [ ] Selección e instalación de tema
-- [ ] Creación de páginas base
-- [ ] Configuración de menús
-- [ ] Instalación de plugins esenciales
 
-#### 📝 Sprint 2: Contenido y Funcionalidades
-- [ ] Desarrollo de contenido
-- [ ] Configuración de formularios
-- [ ] Setup de portfolio
-- [ ] Optimización SEO básica
-
-#### 🚀 Sprint 3: Testing y Deploy
-- [ ] Testing completo del sitio
-- [ ] Optimización de performance
-- [ ] Configuración de hosting
-- [ ] Documentación final
 
 ---
 
-## 📈 Estado del Proyecto
+## 🧾 Commits de Documentación
 
-### Progreso General
-![Progreso](https://img.shields.io/badge/Progreso-25%25-orange)
+Convención usada para mantener trazabilidad:
 
-- ✅ **Sprint 0:** Completado (100%)
-- 🚧 **Sprint 1:** En progreso (20%)
-- ⏳ **Sprint 2:** Planificado
-- ⏳ **Sprint 3:** Planificado
+- DOCS: Actualización de README y Wiki  
+- FEAT: Nueva funcionalidad documentada  
+- FIX: Corrección de errores en documentación  
 
-### Métricas del Proyecto
-- **Commits:** ![GitHub commits](https://img.shields.io/github/commit-activity/w/tu-usuario/lambda)
-- **Issues Abiertas:** ![GitHub issues](https://img.shields.io/github/issues/tu-usuario/lambda)
-- **Contribuidores:** ![Contributors](https://img.shields.io/badge/Contributors-5-brightgreen)
-
----
-
-## 🔗 Enlaces Importantes
-
-### Documentación
-- 📚 [Wiki del Proyecto](../../wiki)
-- 📋 [Planificación de Sprints](./docs/sprint-planning.md)
-- 🎨 [Guía de Diseño](./docs/design-guide.md)
-- 📖 [Manual de Usuario](./docs/user-manual.md)
-
-### Recursos Externos
-- 🌐 [Sitio Web Demo](http://lambda-demo.com) *(Próximamente)*
-- 📸 [Capturas del Proyecto](https://drive.google.com/folder/capturas-lambda)
-- 🎥 [Videos Demostrativos](https://drive.google.com/folder/videos-lambda)
-
-### Contacto del Equipo
-- 📧 **Email:** lambda.dev.team@gmail.com
-- 💬 **Discord:** Lambda Dev Team
-- 📱 **WhatsApp:** [Grupo del proyecto]
-
----
-
-## 🤝 Contribución
-
-### Para Miembros del Equipo
-1. Crear rama para nueva feature: `git checkout -b feature/nueva-funcionalidad`
-2. Desarrollar y hacer commits descriptivos
-3. Push a la rama: `git push origin feature/nueva-funcionalidad`
-4. Crear Pull Request para revisión
-5. Merge después de aprobación del equipo
-
-### Convenciones
-- **Commits:** `[TIPO]: Descripción breve`
-  - FEAT: Nueva funcionalidad
-  - FIX: Corrección de bug
-  - DOCS: Actualización de documentación
-  - STYLE: Cambios de estilo/formato
-
-### Code Review
-- Mínimo 1 revisión antes del merge
-- Tests locales obligatorios
-- Documentación actualizada
+Ejemplo:  
+`DOCS: Actualiza estructura del README y enlaces a Wiki`
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto es desarrollado con fines educativos por el equipo **Lambda** como parte de la Tecnicatura en Desarrollo Web.
-
-**Uso Académico** - No comercial
+Este proyecto es desarrollado con fines educativos por el equipo Lambda como parte de la Tecnicatura en Desarrollo Web.  
+**Uso Académico – No comercial**
 
 ---
 
 ## 🏆 Reconocimientos
 
-### Tecnologías Utilizadas
-- [WordPress](https://wordpress.org/) - CMS principal
-- [XAMPP](https://www.apachefriends.org/) - Entorno de desarrollo
-- [GitHub](https://github.com/) - Control de versiones
-- [Scrum](https://scrumguides.org/) - Metodología ágil
+**Tecnologías Utilizadas**  
+- WordPress – CMS principal  
+- XAMPP – Entorno de desarrollo  
+- GitHub – Control de versiones  
+- Scrum – Metodología ágil  
 
-### Inspiración
-Gracias a la comunidad de desarrolladores WordPress y a nuestros profesores por el apoyo constante.
+**Inspiración**  
+Gracias a la comunidad de desarrolladores WordPress y a nuestros profesores por el apoyo constante.  
 
----
+
+
 
 <div align="center">
 
